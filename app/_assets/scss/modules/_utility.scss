@@ -1,7 +1,86 @@
-@mixin linkColor($color) {
-     color: $color;
-     
-     &:hover, &:active, &:focus {
-         color: lighten($color, $link-lighten-amount);
-     }
+// Bootstrap Button Variant
+@mixin button-variant($color, $background, $border) {
+  color: $color;
+  background-color: $background;
+  border-color: $border;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.active,
+  .open .dropdown-toggle & {
+    color: $color;
+    background-color: darken($background, 10%);
+    border-color: darken($border, 12%);
+  }
+
+  &:active,
+  &.active,
+  .open .dropdown-toggle & {
+    background-image: none;
+  }
+
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    &,
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      background-color: $background;
+      border-color: $border;
+    }
+  }
+
+  .badge {
+		color: $background;
+		background-color: $color;
+	}
 }
+
+// Background Features
+@mixin background-cover() {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+// Picture Blur
+@mixin background-blur($pixel) {
+  -webkit-filter: blur($pixel);
+  -moz-filter: blur($pixel);
+  -o-filter: blur($pixel);
+  -ms-filter: blur($pixel);
+  filter: blur($pixel);
+}
+
+// Font Selections
+@mixin serif-font()
+{
+	font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@mixin script-font() {
+	font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+
+@mixin body-font() {
+	font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@mixin heading-font()
+{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+}
+
+
+// @mixin linkColor($color) {
+//      color: $color;
+//
+//      &:hover, &:active, &:focus {
+//          color: lighten($color, $link-lighten-amount);
+//      }
+// }
