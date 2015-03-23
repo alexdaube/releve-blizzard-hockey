@@ -3,16 +3,32 @@ title: Nos partenaires
 partners:
   - name: Club de hockey Blizzard Midget AAA
     link: http://blizzard.liguemidgetaaa.ca/
-    image: img/blizzard_logo.png
+    image: img/svg/blizzard_rouge.svg
 
   - name: Ligue de hockey midget AAA
     link: http://liguemidgetaaa.ca/
-    image: img/Ligue_AAA.png
+    image: img/svg/midget.svg
 
   - name: Reebok Hockey
     link: http://reebokhockey.com/
-    image: img/logo-reebok.gif
+    image: img/svg/rbk.svg
 
   - name: Séminaire Saint-François
     link: http://www.ss-f.com/fr/
-    image: img/ssf.png
+    image: img/svg/ssf.svg
+
+  - name: Warrior Wizard Hockey
+    link: http://wizardhockey.com/
+    image: img/svg/wizard.svg
+
+  - name: TurboTeck
+    link: http://www.turbo-teck.com/
+    image: img/svg/turbo.svg
+
+  - name: Hockey Quebec
+    link: http://www.hockey.qc.ca/fr/index.html
+    image: img/svg/quebec.svg
+
+  - name: Warrior Hockey
+    link: http://www.warrior.com/
+    image: img/svg/warrior.svg

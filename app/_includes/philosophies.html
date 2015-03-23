@@ -1,0 +1,29 @@
+	<section id="philosophies" class="bg-philosophies">
+    <div class="container">
+
+      <div class="row mt">
+    		<div class="col-lg-4 col-lg-offset-4 centered">
+    			<h3>Nos Philosophies</h3>
+    			<hr>
+    		</div>
+    	</div>
+
+		<div class="row mt">
+			<div class="col-lg-8 col-lg-offset-2 centered">
+				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner">
+
+            {% for philosophy in site.data.philosophies.quotes %}
+              <div class="{{  philosophy.class }}">
+                <h2>{{ philosophy.text }}</h2>
+                <h5>{{ philosophy.name }}</h5>
+              </div>
+            {% endfor %}
+
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

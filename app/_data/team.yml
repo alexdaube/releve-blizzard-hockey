@@ -5,15 +5,15 @@ mission: Notre mission est de procurer les outils ultimes aux joeurs élites de 
 members:
   - name: Jabar Askerov
     email: jab@tits.com
-    image: img/jab_resize.png
+    image: img/team/jab_resize.png
     philosophy: -Tu suce tu ou tu crosse rienque
 
   - name: Bryan Lizotte
     email: lizotte@tits.com
-    image: img/lizotte_resize.png
+    image: img/team/lizotte_resize.png
     philosophy: -I'm in love with the coco
 
   - name: Abreck Askerov
     email: abb@tits.com
-    image: img/abb_resize.png
+    image: img/team/abb_resize.png
     philosophy: -Put your damn suit on

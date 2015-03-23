@@ -1,7 +1,7 @@
 // Header Section
 
 header {
-  background-image: url("../img/blizzard-gabriel-rancourt.jpeg");
+  background-image: url("../img/blizzard-blur.jpeg");
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
@@ -21,7 +21,7 @@ header {
       font-size: 22px;
       line-height: 22px;
       margin-bottom: 25px;
-      color: #b18d03;
+      color: $notre-dame-gold;
       opacity: 0.8;
     }
 
@@ -31,7 +31,7 @@ header {
 			font-size: 50px;
 			line-height: 50px;
 			margin-bottom: 25px;
-      color: #b18d03;
+      color: $notre-dame-gold;
       //opacity: 0.95;
 		}
 

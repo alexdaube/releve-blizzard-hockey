@@ -1,0 +1,16 @@
+.bg-philosophies {
+  background-image: url(/img/rink_grey_blur.jpg);
+  background-repeat: none;
+  background-attachment: scroll;
+  background-position: center center;
+  @include background-cover;
+  h3 {
+    color: $notre-dame-gold;
+    margin:0px auto;
+    width: 70%;
+  }
+  h2, h5 {
+    color: $gray-lighter;
+  }
+
+}
