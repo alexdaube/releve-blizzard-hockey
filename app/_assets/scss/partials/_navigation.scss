@@ -63,7 +63,7 @@
 
 
 
-@media(min-width: 768px) {
+@media(min-width: $min-width) {
   .navbar-default {
     background-color: transparent;
     padding: 25px 0;

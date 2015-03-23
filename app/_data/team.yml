@@ -1,0 +1,19 @@
+title: Notre Équipe
+moto: Offre une expérience de hockey ultime et d'entrainement intélligent!
+mission: Notre mission est de procurer les outils ultimes aux joeurs élites de la region afin qu'ils peuvent réaliser le maximum de leur potentiel. Une chance incroyable de travailler avec deux des meilleurs entraîneurs pour le développement des habileter au monde.
+
+members:
+  - name: Jabar Askerov
+    email: jab@tits.com
+    image: img/jab_resize.png
+    philosophy: -Tu suce tu ou tu crosse rienque
+
+  - name: Bryan Lizotte
+    email: lizotte@tits.com
+    image: img/lizotte_resize.png
+    philosophy: -I'm in love with the coco
+
+  - name: Abreck Askerov
+    email: abb@tits.com
+    image: img/abb_resize.png
+    philosophy: -Put your damn suit on

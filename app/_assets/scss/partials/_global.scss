@@ -67,6 +67,41 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 20px 40px;
 }
 
+// Global Section Styles
+
+section {
+    padding: 100px 0;
+    h2.section-heading {
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+    color: $brand-primary;
+    }
+    h3.section-subheading {
+		font-size: 16px;
+		@include serif-font;
+		text-transform: none;
+		font-style: italic;
+		font-weight: 400;
+		margin-bottom: 75px;
+    }
+}
+
+@media(min-width:$min-width) {
+	section {
+		padding: 150px 0;
+	}
+}
+
+aside {
+  h2.section-heading {
+    font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+    color: $brand-primary;
+  }
+}
+
 // body {
 //     font-family: $fixed-font-family, $base-font-family;
 //     font-size: $base-font-size;

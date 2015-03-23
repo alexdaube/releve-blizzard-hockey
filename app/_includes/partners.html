@@ -1,0 +1,23 @@
+<!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container">
+
+          <div class="row">
+  	    		<div class="col-lg-12 text-center">
+              <h2 class="section-heading">{{ site.data.partners.title }}</h2>
+  	    			<hr>
+  	    		</div>
+  	    	</div>
+
+
+            <div class="row">
+              {% for partner in site.data.partners.partners %}
+                <div class="col-md-3 col-sm-6">
+                    <a href="{{ partner.link }}" target="_blank">
+                        <img src="{{ partner.image }}" class="img-responsive img-centered" alt="{{ partner.name}}">
+                    </a>
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </aside>
