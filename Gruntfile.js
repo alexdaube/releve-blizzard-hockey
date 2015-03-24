@@ -150,7 +150,7 @@ module.exports = function(grunt) {
             options: {
                 includePaths: [
                   'bower_components/bootstrap-sass/assets/stylesheets',
-                  'bower_components/font-awesome/scss'
+                  'bower_components/font-awesome'
                   ]
             },
             server: {

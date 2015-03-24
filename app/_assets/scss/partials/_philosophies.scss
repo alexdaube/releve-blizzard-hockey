@@ -4,13 +4,19 @@
   background-attachment: scroll;
   background-position: center center;
   @include background-cover;
+  text-align: center;
+
   h3 {
     color: $notre-dame-gold;
     margin:0px auto;
-    width: 70%;
   }
-  h2, h5 {
+  h2 {
     color: $gray-lighter;
+  }
+
+  h5 {
+    color: $notre-dame-gold;
+    text-align: right;
   }
 
 }
