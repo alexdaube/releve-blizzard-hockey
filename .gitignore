@@ -31,6 +31,10 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+*.png
+*.svg
+*.jpg
+*.jpeg
 *.mp4
 
 # Ignore for Jekyll Grunt projects #
