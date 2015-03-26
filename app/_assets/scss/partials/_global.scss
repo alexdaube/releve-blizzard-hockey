@@ -67,6 +67,33 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 20px 40px;
 }
 
+.btn-youtube {
+  @include button-variant(white, $brand-primary, $brand-primary);
+	@include heading-font;
+  font-weight: 700;
+  border-radius: 25%;
+  font-size: 40px;
+  padding: 5px 30px;
+  color: $brand-primary;
+  background-color: transparent;
+  border-color: transparent;
+  outline: none;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  transition: all 0.6s;
+  opacity: 0.7;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: transparent;
+    color: $brand-primary;
+    border: none;
+    font-size: 70px;
+    padding: 0;
+  }
+}
+
 // Global Section Styles
 
 section {
@@ -103,11 +130,10 @@ aside {
   margin-bottom: 15px;
   color: $gray-darkest;
   }
+}
 
-  h3.aside-heading {
-    font-size: 30px;
-		margin-top: 0;
-		margin-bottom: 5px;
-    color: $gray-darker;
-  }
+@media(min-width:$min-width) {
+	aside {
+		padding: 150px 0;
+	}
 }

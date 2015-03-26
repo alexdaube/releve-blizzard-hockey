@@ -43,3 +43,30 @@
   }
 
 }
+
+.video-link {
+  padding: 10px 0;
+  text-align: center;
+  img {
+    opacity: 0.7;
+  }
+  h3.video-heading {
+    color: #000000;
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.7;
+  }
+
+  .change-icon > .fa:nth-child(2) {
+    display: none;
+  }
+
+  .change-icon:hover > .fa:nth-child(1) {
+    display: none;
+  }
+
+  .change-icon:hover > .fa:nth-child(2) {
+    display: inherit;
+  }
+}
