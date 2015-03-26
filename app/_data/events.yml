@@ -5,8 +5,8 @@ evenements:
     location: Complexe Sportif Multidisciplinaire de Saint-Augustin
     link: \#eventModal1
     modal-link: eventModal1
-    image: img/sunday.png
-    modal-image: img/startup-framework-preview.png
+    image: img/flyer3_small.jpg
+    modal-image: img/flyer1.jpg
     description: Vous allez suez les gars.
 
   - title: Camp Élite du Blizzard
@@ -15,6 +15,6 @@ evenements:
     location: Complexe Sportif Multidisciplinaire de Saint-Augustin
     link: \#eventModal2
     modal-link: eventModal2
-    image: img/sunday.png
-    modal-image: img/startup-framework-preview.png
+    image: img/flyer2_small.jpg
+    modal-image: img/flyer1.jpg
     description: Vous allez suez les gars.

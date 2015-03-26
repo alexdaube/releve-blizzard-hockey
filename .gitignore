@@ -31,6 +31,7 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+*.mp4
 
 # Ignore for Jekyll Grunt projects #
 bower_components

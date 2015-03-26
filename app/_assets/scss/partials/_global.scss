@@ -95,10 +95,19 @@ section {
 
 aside {
   padding: 100px 0;
-  h2.section-heading {
-    font-size: 40px;
+  text-align: center;
+
+  h2.aside-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: $gray-darkest;
+  }
+
+  h3.aside-heading {
+    font-size: 30px;
 		margin-top: 0;
-		margin-bottom: 15px;
+		margin-bottom: 5px;
     color: $gray-darker;
   }
 }
