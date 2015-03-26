@@ -1,0 +1,20 @@
+evenements:
+  - title: Camp Élite du Blizzard
+    subtitle: Créont ensemble une culture d'excellence!
+    date: Semaine du 6 Juillet
+    location: Complexe Sportif Multidisciplinaire de Saint-Augustin
+    link: \#eventModal1
+    modal-link: eventModal1
+    image: img/sunday.png
+    modal-image: img/startup-framework-preview.png
+    description: Vous allez suez les gars.
+
+  - title: Camp Élite du Blizzard
+    subtitle: Créont ensemble une culture d'excellence!
+    date: Semaine du 3 Août
+    location: Complexe Sportif Multidisciplinaire de Saint-Augustin
+    link: \#eventModal2
+    modal-link: eventModal2
+    image: img/sunday.png
+    modal-image: img/startup-framework-preview.png
+    description: Vous allez suez les gars.

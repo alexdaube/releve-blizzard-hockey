@@ -3,8 +3,7 @@
 
 {% include head.html %}
 
-<body>
-    <div id="page-top" class="index">
+<body id="page-top" class="index">
 
       {% include navigation.html %}
 
@@ -16,8 +15,20 @@
 
       {% include footer.html %}
 
+      {% include event_modals.html %}
+
       {% include scripts.html %}
-    </div>
+
+      <script>
+      $(document).ready(function() {
+        $('#my-video').backgroundVideo({
+            pauseVideoOnViewLoss: false,
+            parallaxOptions: {
+                effect: 1.9
+            }
+        });
+    });
+      </script>
 </body>
 
 </html>
