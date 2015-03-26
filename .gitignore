@@ -4,6 +4,9 @@
 # This takes care of .tmp, .sass-cache, and many others #
 .*/
 
+app/img/*
+app/videos/*
+
 # Ignore OS generated files #
 .DS_Store*
 ehthumbs.db
