@@ -1,24 +1,24 @@
 quotes:
-  - name: -- Jabar Askerov
-    text: C'est une belle gang de sonBitch eux autres. Y crosse rienque c'est certain
+  - name: -- Vince Lombardi
+    text: It's not whether you get knocked down; it's whether you get up.
     class: item active
 
-  - name: -- Abb Askerov
-    text: ElE, Every body loves everbody. If you see a possom, try to kill it. It is not a pet.
+  - name: -- Mark Spitz
+    text: If you fail to prepare, you’re prepared to fail.
     class: item
 
-  - name: -- Alex Aubé
-    text: The room is starting to spin real fast, cuz of gayness. It's quite pungeant.
+  - name: -- John Madden
+    text: The road to Easy Street goes through the sewer.
     class: item
 
-  - name: -- Bryan Lizotte
-    text: Le déjeuner du campagnard, c'est NHL. Le général Tao, c'est NHL! La coke est NHL.
+  - name: -- Evander Holyfield
+    text: It is not the size of a man but the size of his heart that matters.
     class: item
 
-  - name: -- Bryan Lizotte
-    text: On va chercher Crosby à soir les boys. Let's go! As tu fini ton verre? Boie donc.
+  - name: -- Babe Ruth
+    text: Never let the fear of striking out get in your way.
     class: item
 
-  - name: -- Alex Tanguay
-    text: Y'a rien comme une bonne coquille à Joe après un match.
+  - name: -- Lou Holtz
+    text: Without self-discipline, success is impossible.
     class: item
