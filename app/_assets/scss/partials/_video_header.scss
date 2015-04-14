@@ -11,6 +11,20 @@ header {
   color: white;
 
 
+  video {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: baseline;
+  }
+
+  .video-wrap {
+    height: 100%;
+    width: 100%;
+  }
+  .outer-wrap {
+    height: 500px;
+  }
   .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;

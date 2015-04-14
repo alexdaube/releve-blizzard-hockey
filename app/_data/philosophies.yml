@@ -1,24 +1,4 @@
 quotes:
-  - name: -- Vince Lombardi
-    text: It's not whether you get knocked down; it's whether you get up.
+  - name: -- Alex Tanguay
+    text: Jabar a dramastiquement aidé à développer mes habiletés sur la glace, ainsi qu'en dehors de la glace. C'est de loin le meilleur entraînement disponible dans le monde du hockey.
     class: item active
-
-  - name: -- Mark Spitz
-    text: If you fail to prepare, you’re prepared to fail.
-    class: item
-
-  - name: -- John Madden
-    text: The road to Easy Street goes through the sewer.
-    class: item
-
-  - name: -- Evander Holyfield
-    text: It is not the size of a man but the size of his heart that matters.
-    class: item
-
-  - name: -- Babe Ruth
-    text: Never let the fear of striking out get in your way.
-    class: item
-
-  - name: -- Lou Holtz
-    text: Without self-discipline, success is impossible.
-    class: item

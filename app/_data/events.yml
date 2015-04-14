@@ -1,20 +1,20 @@
 evenements:
-  - title: Camp Élite du Blizzard
+  - title: Camp Élite de la Relève Blizzard
     subtitle: Créont ensemble une culture d'excellence!
-    date: Semaine du 6 Juillet
-    location: Complexe Sportif Multidisciplinaire de Saint-Augustin
+    date: Du 6 au 10 Juillet 2015
+    location: L'activital de Saint-Augustin
     link: \#eventModal1
     modal-link: eventModal1
-    image: img/flyer3_small.jpg
-    modal-image: img/flyer1.jpg
-    description: Vous allez suez les gars.
+    image: img/juillet6.png
+    modal-image: img/juillet6.png
+    description: Contactez-nous pour de l'information supplémentaire.
 
-  - title: Camp Élite du Blizzard
+  - title: Camp Élite de la Relève Blizzard
     subtitle: Créont ensemble une culture d'excellence!
-    date: Semaine du 3 Août
-    location: Complexe Sportif Multidisciplinaire de Saint-Augustin
+    date: Du 3 au 10 Août 2015
+    location: Complexe Sportif de Saint-Augustin
     link: \#eventModal2
     modal-link: eventModal2
-    image: img/flyer2_small.jpg
-    modal-image: img/flyer1.jpg
-    description: Vous allez suez les gars.
+    image: img/aout3.png
+    modal-image: img/aout3.png
+    description: Contactez-nous pour de l'information supplémentaire.
