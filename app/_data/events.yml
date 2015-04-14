@@ -7,7 +7,8 @@ evenements:
     modal-link: eventModal1
     image: img/juillet6.png
     modal-image: img/juillet6.png
-    description: Contactez-nous pour de l'information supplémentaire.
+    description: Contactez-nous pour de l'information supplémentaire
+    contact: releveblizzardmidgetaaa@hotmail.com
 
   - title: Camp Élite de la Relève Blizzard
     subtitle: Créont ensemble une culture d'excellence!
@@ -17,4 +18,5 @@ evenements:
     modal-link: eventModal2
     image: img/aout3.png
     modal-image: img/aout3.png
-    description: Contactez-nous pour de l'information supplémentaire.
+    description: Contactez-nous pour de l'information supplémentaire
+    contact: releveblizzardmidgetaaa@hotmail.com
