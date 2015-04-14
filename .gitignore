@@ -36,6 +36,7 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.mp4
+*.ogv
 
 # Ignore for Jekyll Grunt projects #
 bower_components
